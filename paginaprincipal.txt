@@ -1,0 +1,350 @@
+<html>
+<head>
+<title>P&aacute;gina Principal</title>
+</head>
+<body>
+<img src="imagenportada.jpg" WIDTH="100%" ALIGN="MIDDLE">
+<h1 align="center">INSTRUMENTOS MUSICALES VIDA</h1>
+<table width=80% align=center border=3>
+<tr>
+<td>
+<a href="index.html">INICIO</a><br>
+<a href="pianos.html">PIANOS</a><br>
+<a href="promociones.html">PROMOCIONES</a><br>
+<a href="guitarras.html">GUITARRAS</a><br>
+<a href="instrumentos.html">INSTRUMENTOS</a><br>
+</td>
+<td><img src="guitarra1.jpg" WIDTH="100%"></td>
+<td><img src="bateria2.jpg" height="40%" width="40%"></td>
+<td><img src="chelo3.jpg" WIDTH="100%"></td>
+<td><img src="bateria4.jpg" height="40%" width="40%"></td>
+</tr>
+</table>
+<h2 align="center">Ofertas</h2>
+<table width=80% align=center border=3>
+<tr>
+<td><img src="imagen5.jpg" WIDTH="100%"></td>
+<td>Caracteristicas
+<ul>
+<li>A</li>
+<li>B</li>
+<li>C</li>
+<li>D</li>
+<li>E</li>
+<li>F</li>
+</ul>
+</td>
+<td><img src="imagen6.jpg" WIDTH="100%"></td>
+<td>Caracteristicas
+<ul>
+<li>A</li>
+<li>B</li>
+<li>C</li>
+<li>D</li>
+<li>E</li>
+<li>F</li>
+</ul></td>
+<td><img src="imagen7.jpg" WIDTH="100%"></td>
+<td>Caracteristicas
+<ul>
+<li>A</li>
+<li>B</li>
+<li>C</li>
+<li>D</li>
+<li>E</li>
+<li>F</li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="imagen8.jpg" WIDTH="100%"></td>
+<td>Caracteristicas
+<ul>
+<li>Caracteristicas</li>
+<li>Caracteristicas</li>
+<li>Caracteristicas</li>
+<li>Caracteristicas</li>
+<li>Caracteristicas</li>
+<li>Caracteristicas</li>
+</ul></td>
+<td><img src="imagen9.jpg" WIDTH="100%"></td>
+<td>Caracteristicas
+<ul>
+<li>A</li>
+<li>B</li>
+<li>C</li>
+<li>D</li>
+<li>E</li>
+<li>F</li>
+</ul></td>
+<td><img src="imagen10.jpg" WIDTH="100%"></td>
+<td>Caracteristicas
+<ul>
+<li>A</li>
+<li>B</li>
+<li>C</li>
+<li>D</li>
+<li>E</li>
+<li>F</li>
+</ul></td>
+</tr>
+</tr>
+</table>
+<h2 align="center">Cursos de Musica</h2>
+<table width=80% align=center border=3>
+<tr>
+<td><img src="imagen11.jpg" WIDTH="100%"></td>
+<td>Caracteristicas
+<ul>
+<li>A</li>
+<li>B</li>
+<li>C</li>
+<li>D</li>
+<li>E</li>
+<li>F</li>
+</ul>
+</td>
+<td><img src="imagen12.jpg" WIDTH="100%"></td>
+<td>Caracteristicas
+<ul>
+<li>A</li>
+<li>B</li>
+<li>C</li>
+<li>D</li>
+<li>E</li>
+<li>F</li>
+</ul></td>
+<td><img src="imagen13.jpg" WIDTH="100%"></td>
+<td>Caracteristicas
+<ul>
+<li>A</li>
+<li>B</li>
+<li>C</li>
+<li>D</li>
+<li>E</li>
+<li>F</li>
+</ul></td>
+</tr>
+</table>
+<h2 align="center">Tu mejor Opci&oacute;n</h2>
+<table width=90% align=center border=3>
+<tr>
+<td><img src="imagen14.jpg" WIDTH="100%"></td>
+<td><img src="imagen15.jpg" height="40%" width="40%"></td>
+<td><img src="imagen16.jpg" WIDTH="100%"></td>
+<td><img src="imagen17.jpg" height="40%" width="40%"></td>
+<td><img src="imagen18.jpg" WIDTH="100%"></td>
+<td><img src="imagen19.jpg" WIDTH="100%"></td>
+<td><img src="imagen20.jpg" WIDTH="100%"></td>
+<td><img src="imagen21.jpg" height="40%" width="40%"></td>
+<td><img src="imagen22.jpg" WIDTH="100%"></td>
+<td><img src="imagen23.jpg" height="40%" width="40%"></td>
+</tr>
+</table>
+<table width=80% align=center border=3>
+<tr>
+<td><img src="imagen24.jpg" WIDTH="100%"></td>
+<td>Caracteristicas
+<ul>
+<li>A</li>
+<li>B</li>
+<li>C</li>
+<li>D</li>
+<li>E</li>
+<li>F</li>
+</ul>
+</td>
+<td><img src="imagen25.jpg" WIDTH="100%"></td>
+<td>Caracteristicas
+<ul>
+<li>A</li>
+<li>B</li>
+<li>C</li>
+<li>D</li>
+<li>E</li>
+<li>F</li>
+</ul></td>
+<td><img src="imagen26.jpg" WIDTH="100%"></td>
+<td>Caracteristicas
+<ul>
+<li>A</li>
+<li>B</li>
+<li>C</li>
+<li>D</li>
+<li>E</li>
+<li>F</li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="imagen27.jpg" WIDTH="100%"></td>
+<td>Caracteristicas
+<ul>
+<li>A</li>
+<li>B</li>
+<li>C</li>
+<li>D</li>
+<li>E</li>
+<li>F</li>
+</ul></td>
+<td><img src="imagen28.jpg" WIDTH="100%"></td>
+<td>Caracteristicas
+<ul>
+<li>A</li>
+<li>B</li>
+<li>C</li>
+<li>D</li>
+<li>E</li>
+<li>F</li>
+</ul></td>
+<td><img src="imagen29.jpg" WIDTH="100%"></td>
+<td>Caracteristicas
+<ul>
+<li>A</li>
+<li>B</li>
+<li>C</li>
+<li>D</li>
+<li>E</li>
+<li>F</li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="imagen30.jpg" WIDTH="100%"></td>
+<td>Caracteristicas
+<ul>
+<li>A</li>
+<li>B</li>
+<li>C</li>
+<li>D</li>
+<li>E</li>
+<li>F</li>
+</ul>
+</td>
+<td><img src="imagen31.jpg" WIDTH="100%"></td>
+<td>Caracteristicas
+<ul>
+<li>A</li>
+<li>B</li>
+<li>C</li>
+<li>D</li>
+<li>E</li>
+<li>F</li>
+</ul></td>
+<td><img src="imagen32.jpg" WIDTH="100%"></td>
+<td>Caracteristicas
+<ul>
+<li>A</li>
+<li>B</li>
+<li>C</li>
+<li>D</li>
+<li>E</li>
+<li>F</li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="imagen33.jpg" WIDTH="100%"></td>
+<td>Caracteristicas
+<ul>
+<li>A</li>
+<li>B</li>
+<li>C</li>
+<li>D</li>
+<li>E</li>
+<li>F</li>
+</ul></td>
+<td><img src="imagen34.jpg" WIDTH="100%"></td>
+<td>Caracteristicas
+<ul>
+<li>A</li>
+<li>B</li>
+<li>C</li>
+<li>D</li>
+<li>E</li>
+<li>F</li>
+</ul></td>
+<td><img src="imagen35.jpg" WIDTH="100%"></td>
+<td>Caracteristicas
+<ul>
+<li>A</li>
+<li>B</li>
+<li>C</li>
+<li>D</li>
+<li>E</li>
+<li>F</li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="imagen36.jpg" WIDTH="100%"></td>
+<td>Caracteristicas
+<ul>
+<li>A</li>
+<li>B</li>
+<li>C</li>
+<li>D</li>
+<li>E</li>
+<li>F</li>
+</ul>
+</td>
+<td><img src="imagen37.jpg" WIDTH="100%"></td>
+<td>Caracteristicas
+<ul>
+<li>A</li>
+<li>B</li>
+<li>C</li>
+<li>D</li>
+<li>E</li>
+<li>F</li>
+</ul></td>
+<td><img src="imagen38.jpg" WIDTH="100%"></td>
+<td>Caracteristicas
+<ul>
+<li>A</li>
+<li>B</li>
+<li>C</li>
+<li>D</li>
+<li>E</li>
+<li>F</li>
+</ul></td>
+</tr>
+<tr>
+<td><img src="imagen39.jpg" WIDTH="100%"></td>
+<td>Caracteristicas
+<ul>
+<li>A</li>
+<li>B</li>
+<li>C</li>
+<li>D</li>
+<li>E</li>
+<li>F</li>
+</ul></td>
+<td><img src="imagen40.jpg" WIDTH="100%"></td>
+<td>Caracteristicas
+<ul>
+<li>A</li>
+<li>B</li>
+<li>C</li>
+<li>D</li>
+<li>E</li>
+<li>F</li>
+</ul></td>
+<td><img src="imagen41.jpg" WIDTH="100%"></td>
+<td>Caracteristicas
+<ul>
+<li>A</li>
+<li>B</li>
+<li>C</li>
+<li>D</li>
+<li>E</li>
+<li>F</li>
+</ul></td>
+</tr>
+</table>
+<br>
+<table width=80% align=center border=3>
+<tr>
+<td><a href="index.html"><img src="facebook.jpg" WIDTH="100%"></a></td>
+<td><a href="index.html"><img src="Instagram.jpg" WIDTH="100%"></a></td>
+<td><a href="index.html"><img src="Youtube.jpg" WIDTH="100%"></a></td>
+<td><a href="index.html"><img src="WhatsApp.jpg" WIDTH="100%"></a></td>
+</tr>
+</table>
+</body>
+</html>
